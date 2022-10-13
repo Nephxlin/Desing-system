@@ -7,5 +7,5 @@ https://www.figma.com/file/HqdDpq3lkEwwo2bzMah6MF/Untitled?node-id=0%3A1
 
 ###### 1 - Npm install
 ####2 - npm run dev
-##3 - npm StoryBook
+##3 - npm run StoryBook
 
